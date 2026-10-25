@@ -1,0 +1,6 @@
+{
+  "name": "Khata Ledger",
+  "description": "Multi-account cash-in/cash-out ledger, incoming transactions, fees, running balances, and Google Sheets format export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
